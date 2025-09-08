@@ -7,6 +7,7 @@ $(document).ready(function() {
         notifications = $('#notifications'),
         countriestable = $('#countriestable'),
         countrynotifications = $('#countrynotifications')
+        
     // load existing countries
     getcountriesastable();
 
